@@ -19,3 +19,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 <img src="https://img.icons8.com/color/480/adobe-photoshop--v1.png" alt="Adobe Photoshop" padding=100px width=7% heigth=7%></img></a>
  
 </div>
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeniaMatto&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
