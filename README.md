@@ -15,6 +15,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 <a  href="https://es.wikipedia.org/wiki/JavaScript">
 <img src="https://programacionymas.com/images/tutoriales/desarrollo-web/html-css-js.png" alt="CSS, HTML y JavaScript" width=14% heigth=14%></a>
 <a  href="https://www.adobe.com/es/products/photoshop.html">
-<img src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" alt="Adobe Photoshop" width=5% heigth=5%></a>
+<img src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" alt="Adobe Photoshop" width=15% heigth=15%></a>
   
 </div>
