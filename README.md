@@ -12,7 +12,7 @@
 <a  href="https://www.python.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python Language" width=7% heigth=7%></a>
 <a  href="https://www.java.com/es/"><img
 src="https://rafaelsantiagocruz.com/wp-content/uploads/2020/10/Rafael-Santiago-Cruz-Java.png" alt="Java Language" width=10% heigth=10%></a>
-<a  href="https://es.wikipedia.org/wiki/JavaScript">
+<div width=10px> </div><a  href="https://es.wikipedia.org/wiki/JavaScript">
 <img src="https://programacionymas.com/images/tutoriales/desarrollo-web/html-css-js.png" alt="CSS, HTML y JavaScript" width=16% heigth=16%></a>
   
 </div>
