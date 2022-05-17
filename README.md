@@ -19,4 +19,4 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
   
 </div>
 
-#### <div align="center"> <p> **Contact me:** </p> <a href=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="Linkedin" width=6% heigth=6%></img></a> </div>
+#### <div align="center"> <p> **Contact me:** </p> <a href="https://www.linkedin.com/in/maria-matto/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png" alt="Linkedin" width=12% heigth=12%></img></a> </div>
