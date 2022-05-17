@@ -17,3 +17,4 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 <a  href="https://www.adobe.com/es/products/photoshop.html">
 <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2012/09/1feb8-photoshop_cs6.png?ssl=1" alt="Adobe Photoshop" width=6% heigth=6%></img></a>
  
+</div>
