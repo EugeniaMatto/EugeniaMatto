@@ -5,7 +5,7 @@
 
 #
 
-### <p align="center"> Technologies and Tools </p>
+### <p align="center"> **Technologies and Tools** </p>
 <div align="center">
 
 <a  href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C Language" width=5% heigth=5%></a>
