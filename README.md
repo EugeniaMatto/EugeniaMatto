@@ -22,5 +22,8 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 #
 
-
+<div align="center">
+ 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeniaMatto&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+
+</div>
