@@ -14,5 +14,7 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 <a  href="https://www.python.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/800px-Python_logo_01.svg.png" alt="Python Language" width=6% heigth=6% ></a>
 <a  href="https://es.wikipedia.org/wiki/JavaScript">
 <img src="https://programacionymas.com/images/tutoriales/desarrollo-web/html-css-js.png" alt="CSS, HTML y JavaScript" width=14% heigth=14%></a>
+<a  href="https://www.adobe.com/es/products/photoshop.html">
+<img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2012/09/1feb8-photoshop_cs6.png?ssl=1" alt="Adobe Photoshop" width=14% heigth=14%></a>
   
 </div>
