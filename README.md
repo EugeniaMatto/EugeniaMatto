@@ -13,6 +13,6 @@
 src="https://rafaelsantiagocruz.com/wp-content/uploads/2020/10/Rafael-Santiago-Cruz-Java.png" alt="Java Language" width=10% heigth=10%></a>
 <a  href="https://www.python.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python Language" width=7% heigth=7%></a>
 <a  href="https://es.wikipedia.org/wiki/JavaScript">
-<img src="https://qph.fs.quoracdn.net/main-qimg-d9d29e2312ee39bb3f588445edba977f" alt="CSS, HTML y JavaScript" width=15% heigth=15%></a>
+<img src="https://qph.fs.quoracdn.net/main-qimg-d9d29e2312ee39bb3f588445edba977f" alt="CSS, HTML y JavaScript" width=20% heigth=20%></a>
   
 </div>
