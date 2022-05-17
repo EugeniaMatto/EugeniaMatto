@@ -18,3 +18,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 <img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2012/09/1feb8-photoshop_cs6.png?ssl=1" alt="Adobe Photoshop" width=6% heigth=6%></a>
   
 </div>
+
+### <p align="center"> **Contact me:** </p> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png">
+<img src=" alt="Linkedin" width=6% heigth=6%></a>
