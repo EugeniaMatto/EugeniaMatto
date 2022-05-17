@@ -19,5 +19,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
   
 </div>
 
-### <p align="center"> **Contact me:** </p> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png">
+### <p align="center"> **Contact me:** </p>
+<a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/2560px-LinkedIn_Logo.svg.png">
 <img src=" alt="Linkedin" width=6% heigth=6%></img></a>
