@@ -1,5 +1,7 @@
-# <p align="center"> Welcome to my git :cat: </p>
-----
+# <p align="center"> Welcome to my git :smiley_cat: </p>
+
+> ***“Any sufficiently advanced technology is indistinguishable from magic”***
+- Arthur C. Clarke
 
 
 
