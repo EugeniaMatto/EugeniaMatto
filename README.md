@@ -15,6 +15,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 <a  href="https://es.wikipedia.org/wiki/JavaScript">
 <img src="https://programacionymas.com/images/tutoriales/desarrollo-web/html-css-js.png" alt="CSS, HTML y JavaScript" width=14% heigth=14%></a>
 <a  href="https://www.adobe.com/es/products/photoshop.html">
-<img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2012/09/1feb8-photoshop_cs6.png?ssl=1" alt="Adobe Photoshop" width=14% heigth=14%></a>
+<img src="https://i0.wp.com/unaaldia.hispasec.com/wp-content/uploads/2012/09/1feb8-photoshop_cs6.png?ssl=1" alt="Adobe Photoshop" width=7% heigth=7%></a>
   
 </div>
