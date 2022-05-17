@@ -8,8 +8,8 @@
 ### <p align="center"> Technologies and Tools </p>
 <div align="center">
 
-<a  href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C Language" width=7% heigth=7%></a><div width=2%></div>
-<a  href="https://www.python.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python Language" width=7% heigth=7%></a>
+<a  href="https://www.cprogramming.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C Language" width=7% heigth=7%></a>
+<a  href="https://www.python.org/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" alt="Python Language" width=7% heigth=7% padding=2%></a>
 <a  href="https://www.java.com/es/"><img
 src="https://rafaelsantiagocruz.com/wp-content/uploads/2020/10/Rafael-Santiago-Cruz-Java.png" alt="Java Language" width=10% heigth=10% display=flex></a> 
 <a  href="https://es.wikipedia.org/wiki/JavaScript">
