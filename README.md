@@ -32,6 +32,4 @@ Contact me: [Linkedin](https://www.linkedin.com/in/maria-matto/)
 
 Last update 17/05/2022 :zap:
  
- [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FEugeniaMatto%2F&label=Profile%20views&labelColor=%23d9e3f0&countColor=%23f47373)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FEugeniaMatto%2F)
- 
 </div>
