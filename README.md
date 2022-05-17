@@ -3,7 +3,7 @@
 ### <p align="center"> ***“Any sufficiently advanced technology is indistinguishable from magic”*** </p>
 ### <p align="center"> - Arthur C. Clarke :dizzy:</p>
 
-<hr>
+#
 
 ### <p align="center"> Technologies and Tools </p>
 
