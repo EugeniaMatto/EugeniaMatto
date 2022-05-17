@@ -10,5 +10,5 @@
 
 <a  href="https://simple.wikipedia.org/wiki/C_(programming_language)"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="C Language" width=7% heigth=7%></a>
 <a  href="https://simple.wikipedia.org/wiki/C_(programming_language)"><img
-src="https://javaprogrammingstepbystep.files.wordpress.com/2016/10/l12866-java-eps-logo-99090.png?w=518&h=510&crop=1" alt="Java Language" width=7% heigth=7%></a>  
+src="https://ubiqum.com/assets/uploads/2019/10/screenshot-2021-02-11-at-115416.png" alt="Java Language" width=7% heigth=7%></a>  
 </div>
