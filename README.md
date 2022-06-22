@@ -32,6 +32,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 Contact me: [Linkedin](https://www.linkedin.com/in/maria-matto/) 
 
-Last update 18/05/2022 :zap:
+Last update 22/06/2022 :zap:
 
 </div>
