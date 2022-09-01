@@ -28,7 +28,7 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeniaMatto)](https://github.com/EugeniaMatto/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EugeniaMatto&theme=tokyonight)
 
 
 
