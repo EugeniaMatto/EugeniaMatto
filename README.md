@@ -52,7 +52,7 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 
 
-Contact me: [Linkedin](https://www.linkedin.com/in/maria-matto/) 
+**Contact me:** [Linkedin](https://www.linkedin.com/in/maria-matto/) 
 
 Last update 09/09/2022 :zap:
 
