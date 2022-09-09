@@ -6,6 +6,26 @@
 ### <p align="center"> - Arthur C. Clarke :dizzy:</p>
 
 #
+```java
+package matto.eugenia;
+import software.developer;
+
+public class Bio {
+
+    public final String name = "Eugenia Matto";
+    public String title = "Software Developer";
+    public String company = "Despegar | Koin";
+    private String location = "Montevideo, Uruguay";
+    
+    public void techSkills() {
+        List<Skill> languages = Array.asList("Java", "C", "Python", "JavaScript");
+        List<Skill> databases = Array.asList("MySql", "Oracle");
+        List<Skill> frameworks = Array.asList("Spring", "Flask");
+    }
+
+}
+```
+#
 
 ### <p align="center"> **Technologies and Tools** </p>
 <div align="center">
@@ -34,6 +54,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 Contact me: [Linkedin](https://www.linkedin.com/in/maria-matto/) 
 
-Last update 31/08/2022 :zap:
+Last update 09/09/2022 :zap:
 
 </div>
