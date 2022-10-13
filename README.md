@@ -18,7 +18,7 @@ public class Bio {
     private String location = "Montevideo, Uruguay";
     
     public void techSkills() {
-        List<Skill> languages = Array.asList("Java", "C", "Python", "JavaScript");
+        List<Skill> languages = Array.asList("Java", "C", "Python", "JavaScript", "Kotlin");
         List<Skill> databases = Array.asList("MySql", "Oracle");
         List<Skill> frameworks = Array.asList("SpringMVC", "Spring Boot", "Spring Data", "Flask");
     }
