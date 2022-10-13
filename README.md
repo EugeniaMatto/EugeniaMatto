@@ -20,7 +20,7 @@ public class Bio {
     public void techSkills() {
         List<Skill> languages = Array.asList("Java", "C", "Python", "JavaScript");
         List<Skill> databases = Array.asList("MySql", "Oracle");
-        List<Skill> frameworks = Array.asList("SpringMVC", "Spring Boot", "Flask");
+        List<Skill> frameworks = Array.asList("SpringMVC", "Spring Boot", "Spring Data", "Flask");
     }
 
 }
@@ -54,6 +54,6 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 **Contact me:** [Linkedin](https://www.linkedin.com/in/maria-matto/) 
 
-Last update 26/09/2022 :zap:
+Last update 13/10/2022 :zap:
 
 </div>
