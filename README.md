@@ -54,6 +54,4 @@ src="https://www.manualweb.net/img/logos/java.png" alt="Java Language" width=8% 
 
 **Contact me:** [Linkedin](https://www.linkedin.com/in/maria-matto/) 
 
-Last update 11/01/2024 :zap:
-
 </div>
