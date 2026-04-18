@@ -31,21 +31,15 @@ public class Bio {
 <div align="center">
 
 <p align="center">
-  <a href="https://claude.com/product/claude-code">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude Code" height="72" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.java.com/en/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="72" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-framework/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="72" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://go.dev/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="Go" height="72" />
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="72" />
-  </a>
+  <a href="https://claude.com/product/claude-code"><img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" alt="Claude Code" height="75"></a>
+  &nbsp;
+  <a href="https://www.java.com/en/"><img src="https://www.manualweb.net/img/logos/java.png" alt="Java" height="75"></a>
+  &nbsp;
+  <a href="https://spring.io/projects/spring-framework/"><img src="https://spring.io/img/projects/spring-framework.svg" alt="Spring" height="75"></a>
+  &nbsp;
+  <a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" height="75"></a>
+  &nbsp;
+  <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="75"></a>
 </p>
  
 </div>
