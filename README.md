@@ -39,7 +39,7 @@ public class Bio {
   &nbsp;
   <a href="https://go.dev/"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go" height="75"></a>
   &nbsp;
-  <a href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" height="75"></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="75"></a>
 </p>
  
 </div>
