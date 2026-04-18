@@ -8,21 +8,21 @@
 #
 ```java
 package matto.eugenia;
-import software.developer;
+import java.util.List;
 
 public class Bio {
 
     public final String name = "Eugenia Matto";
-    public String title = "Software Developer";
-    public String company = "Despegar | Koin";
+    public String title = "Senior Backend Engineer";
+    public String company = "Akua";
     private String location = "Montevideo, Uruguay";
-    
-    public void techSkills() {
-        List<Skill> languages = Array.asList("Java", "Kotlin", "C", "C#", "Python", "JavaScript");
-        List<Skill> databases = Array.asList("SQL", "mongo");
-        List<Skill> frameworks = Array.asList("Spring Boot", "Flask", ".NET Framework");
-    }
 
+    public void techSkills() {
+        List<String> languages = List.of("Java", "Go", "Python", "Kotlin", "C", "C#", "JavaScript");
+        List<String> databases = List.of("SQL", "MongoDB", "PostgreSQL", "Redis");
+        List<String> frameworks = List.of("Spring Boot", "FastAPI", "Flask", ".NET Framework");
+        List<String> ias = List.of("Claude Code", "ChatGPT", "Gemini", "Cursor");
+    }
 }
 ```
 #
