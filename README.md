@@ -1,4 +1,4 @@
-<p align="right">:heart: OOP Lover  </p>
+<p align="right">:heart: AI Lover  </p>
 
 # <p align="center"> Hi!:) I'm Euge, Welcome to my git :smiley_cat: </p>
 
